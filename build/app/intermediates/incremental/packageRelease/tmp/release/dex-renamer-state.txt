@@ -1,0 +1,4 @@
+#Sun Jan 29 20:14:06 NPT 2023
+base.0=C\:\\Users\\DELL\\Downloads\\Cake-Shop-UI-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
