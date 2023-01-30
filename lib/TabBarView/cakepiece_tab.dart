@@ -14,11 +14,11 @@ class CakePiecesTab extends StatelessWidget {
       ['Chcolate', '\रु180', Colors.brown, 'assets/cakepieces/cake-piece3.png'],
       [
         'Black Forest',
-        '\$20',
+        '\रु200',
         Colors.green,
         'assets/cakepieces/cake-piece4.png'
       ],
-      ['Raspberry', '\$15', Colors.orange, 'assets/cakepieces/cake-piece5.png']
+      ['Raspberry', '\रु150', Colors.orange, 'assets/cakepieces/cake-piece5.png']
     ];
     return GridView.builder(
         itemCount: cakePieces.length,
