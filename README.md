@@ -5,6 +5,7 @@ A simple and user-friendly flutter application for your daily needs.
 
 <a href=#><img src="video.gif"></a>
 
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
@@ -32,6 +33,10 @@ If you wish to contribute to this project, please fork the repository and make a
 
 ## Authors
 - Ganesh Dahal https://www.instagram.com/_6anesh_/
+
+## User InterFace (UI)
+<a href=#><img src="Cakemart ui.png"></a>
+
 
 ## License
 This project is licensed under Ganesh Dahal.
