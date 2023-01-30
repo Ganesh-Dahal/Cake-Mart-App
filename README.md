@@ -36,7 +36,3 @@ If you wish to contribute to this project, please fork the repository and make a
 
 ## User InterFace (UI)
 <a href=#><img src="Cakemart ui.png"></a>
-
-
-## License
-This project is licensed under Ganesh Dahal.
